@@ -1,0 +1,9 @@
+TabID,TabRoll,TabDesc_Short,TabDesc_Long,Tab_X_BAR,Tab_Y_Bar,FORM_Tab_CELL_X
+0,0,0,0,0,0,0
+1,1,Q_World_Max,All_Entrenched_Tangibles,T_EMITTIME,X_WAT,Q_WAT_x_ETTE
+1,2,$_World_Max,WorldWorth_of_All_Entrenched_Tangibles,T_EMITTIME,X_WAT,$_WAT_x_ETTE
+0,0,0,0,0,0,0
+2,1,Q_PLAY_Max,All_Entrenched_Tangibles,T_EMITTIME,X_PAT,Q_PAT_x_ETTE
+2,2,$_PLAY_Max,PLAYWorth_of_All_Entrenched_Tangibles,T_EMITTIME,X_PAT,$_PAT_x_ETTE
+0,0,0,0,0,0,0
+3,1,$_REL_World_Max,REL_PLAYWorldWorth_AET,T_EMITTIME,X_PWAT,$_PWAT_x_ETTE
