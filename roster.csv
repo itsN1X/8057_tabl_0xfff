@@ -1,0 +1,6 @@
+sno,say,do,form
+
+0.1.0,quant_e,x-bar=assID;y-bar=emittime,amount_held_empetrior_vault
+0.1.1,quant_x,x-bar=assID;y-bar=mex.emittime,amount_held_inperson_vault
+0.1.2,unit_cost,x-bar=assID;y-bar=emittime,per_base_unit_coinbase
+0.1.3,tryst_worth,x-bar=assID;y-bar=emittime,=unit_cost*num_coinbase
